@@ -1,6 +1,6 @@
 # OnlyFans dynamic rules
 
-Публічний JSON з dynamic rules для OnlyFans. Оновлюється автоматично (cron на сервері).
+Публічний JSON з dynamic rules для OnlyFans.
 
 ## Використання
 
