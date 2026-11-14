@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": {
+    "redsky-claude": {
+      "source": {
+        "source": "directory",
+        "path": "/Users/serhii.kapshuchenko/Desktop/redsky/redsky-claude"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "redsky@redsky-claude": true
+  },
+  "attribution": {
+    "commit": "",
+    "sessionUrl": false
+  }
+}
